@@ -1,7 +1,3 @@
-
----
-
-```markdown
 # 💼 My Past Projects in Web & App Development
 
 Welcome to a quick showcase of some of the applications and platforms I've built or contributed to. These projects reflect my experience in developing real-world solutions across different domains.
@@ -55,11 +51,26 @@ It allows medical professionals to:
 - Write diagnostic report content.
 - Generate and download structured PDF reports.
 - Manage users, reports, and related settings.
-  
-Admin Access:  
+
 🔗 [Admin Panel (Demo)](https://ecommerce.moatasemtech.com/admin/users)
 
-This project also includes a flexible backend for managing content, users, roles, and report configurations.
+---
+
+### 8. University Major Recommendation System – Admin Panel  
+An admin dashboard for managing a smart AI-based system that helps students discover their ideal university majors.  
+Features:
+- Student data analysis.
+- Personality and interest evaluation.
+- Admin control over results and configurations.
+
+🔗 [Admin Panel](http://findmajor.moatasemtech.com/admin)
+
+---
+
+### 9. LinkedIn Post Content Scraper  
+A simple web tool that fetches and displays the content of any public LinkedIn post.  
+Useful for archiving or analyzing LinkedIn post data.  
+🌐 [Live Tool](http://linkedin-scraper.moatasemtech.com/)
 
 ---
 
@@ -71,8 +82,3 @@ This project also includes a flexible backend for managing content, users, roles
 ---
 
 Feel free to explore the links above. If you're interested in collaboration or have any inquiries, you can reach out via [my portfolio site](https://moatasemtech.com).
-```
-
----
-
-هل تريدني الآن أن أحوّله إلى ملف فعلي `README.md` جاهز للرفع؟
