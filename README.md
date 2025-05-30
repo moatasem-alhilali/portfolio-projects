@@ -1,80 +1,64 @@
-# 🚀 Moatasem's Portfolio Projects
+<h1 align="center">Moatasem Alhilali – Full-Stack Developer</h1>
 
-Welcome to my personal showcase!  
-Here you'll find a curated collection of web platforms, admin dashboards, and mobile apps I've built to solve real-world problems across various domains.
-
----
-
-## 🖥️ Web Applications & Dashboards
-
-### 1. 🌌 **The Ending Point** – Interactive Web Experience + Admin Panel  
-A creative and interactive storytelling project built with **Next.js**.  
-Includes a custom-built Laravel admin panel for managing dynamic content, stories, and user interactions.  
-🌐 [Launch Frontend](https://the-ending-point-front.vercel.app/)  
-🔗 [Admin Panel](https://test.moatasemtech.com/admin/login)
+<p align="center">
+  🧠 Laravel | 📱 Flutter | ⚙️ REST APIs | 🧪 Real-World Systems | 🌍 Bilingual Platforms
+</p>
 
 ---
 
-### 2. 📑 **Report Management System** – Laravel Admin Panel  
-An advanced dashboard for medical reports:  
-- Doctors can write and generate PDF reports.  
-- Role-based access and user management.  
-🔗 [Admin Panel](https://ecommerce.moatasemtech.com/admin/users)
+## 🖥️ Web Platforms & Admin Panels
+
+> Real dashboards, AI systems, and CMS panels built with Laravel and modern stacks.
+
+### 🌌 The Ending Point  
+> **Frontend**: Story-driven platform using `Next.js`  
+> **Backend**: Admin panel to manage stories and user content (`Laravel`)  
+🔗 [Frontend](https://the-ending-point-front.vercel.app)  
+🔐 [Admin Panel](https://test.moatasemtech.com/admin/login)
 
 ---
 
-### 3. 🎓 **University Major Recommender** – AI-Powered Admin Panel  
-An AI-based assessment system that helps students choose suitable majors based on:  
-- Interests, personality traits, ambition, adaptability  
-- Dynamic result generation  
-🔗 [Admin Panel](http://findmajor.moatasemtech.com/admin)
+### 📑 Report Management System  
+> Medical report generator: doctors write and export structured PDF results  
+🔐 [Admin Panel](https://ecommerce.moatasemtech.com/admin/users)
 
 ---
 
-### 4. 🧠 **LinkedIn Post Content Scraper**  
-A tool that fetches and displays the content of any public LinkedIn post for analysis or archiving.  
-🌐 [Live App](http://linkedin-scraper.moatasemtech.com/)
+### 🎓 Major Recommender System  
+> AI-based system to guide students toward suitable majors  
+🔐 [Admin Panel](http://findmajor.moatasemtech.com/admin)
+
+---
+
+### 🧠 LinkedIn Scraper Tool  
+> Scrapes and displays content of any LinkedIn public post  
+🌐 [Live Demo](http://linkedin-scraper.moatasemtech.com)
 
 ---
 
 ## 📱 Mobile Applications
 
-### 1. 🛍️ **Pinpaiss** – E-Commerce Mobile App  
-A modern shopping platform with a full cart, checkout, and product system.  
-🌐 [Visit Site](https://pinpaiss.com)
+> Developed fully using Flutter with real users and live APKs.
+
+| App            | Description                                                               | Links |
+|----------------|---------------------------------------------------------------------------|--------|
+| **Pinpaiss**   | E-commerce mobile app (cart, checkout, multi-language).                  | 🌐 [Website](https://pinpaiss.com) |
+| **Qurani**     | Islamic app (Quran, Azkar, offline reading).                             | 📥 [APK](https://www.mediafire.com/file/tf86r57d05soyn4/quran-v2.apk/file) · 💻 [Code](https://github.com/moatasem-alhilali/qurani-master) |
+| **Easy Pay**   | Payment app for digital services and wallet features.                    | 📥 [APK](https://www.mediafire.com/file/tw01yb8o3ntsk2t/easyapp-v1.apk/file) |
+| **A’raas**     | Event/wedding planning app for managing guests and tasks.                | 📥 [APK](https://www.mediafire.com/file/lfe3s68c1q6mz8b/wedding-v1.apk/file) |
+| **What Anime** | Anime scene identifier using image recognition.                          | 💻 [Code](https://github.com/moatasem-alhilali/what-anime) |
 
 ---
 
-### 2. 📖 **Qurani** – Islamic Lifestyle App  
-A spiritual companion including Quran, Azkar, and more.  
-📦 [Download APK](https://www.mediafire.com/file/tf86r57d05soyn4/quran-v2.apk/file)  
-📂 [Source Code](https://github.com/moatasem-alhilali/qurani-master)
+## 🧭 Connect with Me
+
+| Platform     | Link                                           |
+|--------------|------------------------------------------------|
+| GitHub       | [github.com/moatasem-alhilali](https://github.com/moatasem-alhilali) |
+| Portfolio    | [moatasemtech.com](https://moatasemtech.com)  |
 
 ---
 
-### 3. 🟢 **Easy Pay** – Digital Payment App  
-An electronic payment platform for secure and easy transactions.  
-📦 [Download APK](https://www.mediafire.com/file/tw01yb8o3ntsk2t/easyapp-v1.apk/file)
+> ⚡ Built with real data, real users, real use cases.  
+> 💬 Let's build something that matters → [Contact me](https://moatasemtech.com)
 
----
-
-### 4. 💍 **A’raas** – Wedding Planning App  
-Helps users plan and manage wedding events with ease.  
-📦 [Download APK](https://www.mediafire.com/file/lfe3s68c1q6mz8b/wedding-v1.apk/file)
-
----
-
-### 5. 🎌 **What Anime** – Anime Scene Identifier  
-Identify anime scenes through image analysis.  
-📂 [View on GitHub](https://github.com/moatasem-alhilali/what-anime)
-
----
-
-## 🧭 Quick Access
-
-- 🔗 [My GitHub Profile](https://github.com/moatasem-alhilali)  
-- 🌍 [My Personal Portfolio](https://moatasemtech.com)
-
----
-
-> 💬 If you'd like to collaborate, hire, or discuss a project — feel free to reach out via my [website](https://moatasemtech.com).
