@@ -31,8 +31,10 @@
 ---
 
 ### 🧠 LinkedIn Scraper Tool  
-> Scrapes and displays content of any LinkedIn public post  
-🌐 [Live Demo](http://linkedin-scraper.moatasemtech.com)
+> Scrapes and displays the content of any LinkedIn public post.
+
+- 🌐 [Live Web Tool](http://linkedin-scraper.moatasemtech.com)  
+- 🤖 [Telegram Bot](https://t.me/nano_linkedin_scraper_bot) – quick access via mobile, same functionality
 
 ---
 
