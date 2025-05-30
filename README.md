@@ -7,7 +7,15 @@ Here you'll find a curated collection of web platforms, admin dashboards, and mo
 
 ## 🖥️ Web Applications & Dashboards
 
-### 1. 📑 **Report Management System** – Laravel Admin Panel  
+### 1. 🌌 **The Ending Point** – Interactive Web Experience + Admin Panel  
+A creative and interactive storytelling project built with **Next.js**.  
+Includes a custom-built Laravel admin panel for managing dynamic content, stories, and user interactions.  
+🌐 [Launch Frontend](https://the-ending-point-front.vercel.app/)  
+🔗 [Admin Panel](https://test.moatasemtech.com/admin/login)
+
+---
+
+### 2. 📑 **Report Management System** – Laravel Admin Panel  
 An advanced dashboard for medical reports:  
 - Doctors can write and generate PDF reports.  
 - Role-based access and user management.  
@@ -15,7 +23,7 @@ An advanced dashboard for medical reports:
 
 ---
 
-### 2. 🎓 **University Major Recommender** – AI-Powered Admin Panel  
+### 3. 🎓 **University Major Recommender** – AI-Powered Admin Panel  
 An AI-based assessment system that helps students choose suitable majors based on:  
 - Interests, personality traits, ambition, adaptability  
 - Dynamic result generation  
@@ -23,15 +31,9 @@ An AI-based assessment system that helps students choose suitable majors based o
 
 ---
 
-### 3. 🧠 **LinkedIn Post Content Scraper**  
+### 4. 🧠 **LinkedIn Post Content Scraper**  
 A tool that fetches and displays the content of any public LinkedIn post for analysis or archiving.  
 🌐 [Live App](http://linkedin-scraper.moatasemtech.com/)
-
----
-
-### 4. 🌌 **The Ending Point** – Interactive Web Experience  
-A creative and interactive project built using **Next.js**.  
-🌐 [Launch Demo](https://the-ending-point-front.vercel.app/)
 
 ---
 
