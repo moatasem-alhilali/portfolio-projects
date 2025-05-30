@@ -36,14 +36,24 @@
 
 ---
 
-## 📱 Mobile Applications
+## 📱 iOS Store Apps
+
+> Published and publicly available on the App Store.
+
+| App Name      | Description                                         | App Store Link |
+|---------------|-----------------------------------------------------|----------------|
+| **Pinpaiss**  | A complete e-commerce app with product catalog, checkout, and user dashboard. | [🛒 View on App Store](https://apps.apple.com/us/app/%D8%A8%D9%86%D8%A8%D8%A7%D9%8A/id6478984981) |
+
+---
+
+## 📱 Mobile Applications (APK & Source)
 
 > Developed fully using Flutter with real users and live APKs.
 
 | App            | Description                                                               | Links |
 |----------------|---------------------------------------------------------------------------|--------|
-| **Pinpaiss**   | E-commerce mobile app (cart, checkout, multi-language).                  | 🌐 [Website](https://pinpaiss.com) |
-| **Qurani**     | Islamic app (Quran, Azkar, offline reading).                             | 📥 [APK](https://www.mediafire.com/file/tf86r57d05soyn4/quran-v2.apk/file) · 💻 [Code](https://github.com/moatasem-alhilali/qurani-master) |
+| **Pinpaiss**   | E-commerce app (multi-language, cart, checkout).                          | 🌐 [Website](https://pinpaiss.com) |
+| **Qurani**     | Islamic app with Quran, Azkar, offline reading.                          | 📥 [APK](https://www.mediafire.com/file/tf86r57d05soyn4/quran-v2.apk/file) · 💻 [Code](https://github.com/moatasem-alhilali/qurani-master) |
 | **Easy Pay**   | Payment app for digital services and wallet features.                    | 📥 [APK](https://www.mediafire.com/file/tw01yb8o3ntsk2t/easyapp-v1.apk/file) |
 | **A’raas**     | Event/wedding planning app for managing guests and tasks.                | 📥 [APK](https://www.mediafire.com/file/lfe3s68c1q6mz8b/wedding-v1.apk/file) |
 | **What Anime** | Anime scene identifier using image recognition.                          | 💻 [Code](https://github.com/moatasem-alhilali/what-anime) |
@@ -61,4 +71,3 @@
 
 > ⚡ Built with real data, real users, real use cases.  
 > 💬 Let's build something that matters → [Contact me](https://moatasemtech.com)
-
