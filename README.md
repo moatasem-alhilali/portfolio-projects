@@ -58,7 +58,7 @@
 | **Qurani**     | Islamic app with Quran, Azkar, offline reading.                          | 📥 [APK](https://www.mediafire.com/file/tf86r57d05soyn4/quran-v2.apk/file) · 💻 [Code](https://github.com/moatasem-alhilali/qurani-master) |
 | **Easy Pay**   | Payment app for digital services and wallet features.                    | 📥 [APK](https://www.mediafire.com/file/tw01yb8o3ntsk2t/easyapp-v1.apk/file) |
 | **A’raas**     | Event/wedding planning app for managing guests and tasks.                | 📥 [APK](https://www.mediafire.com/file/lfe3s68c1q6mz8b/wedding-v1.apk/file) |
-| **What Anime** | Anime scene identifier using image recognition.                          | 💻 [Code](https://github.com/moatasem-alhilali/what-anime) |
+| **What Anime** | Anime scene identifier using image recognition.                          | 📥 [APK](https://www.mediafire.com/file/p2ikpeolq45f207/what-anime-v1.apk/file) | 💻 [Code](https://github.com/moatasem-alhilali/what-anime) |
 
 ---
 
