@@ -38,6 +38,16 @@
 
 ---
 
+### 🧪 Migration Alchemy  
+> A visual drag-and-drop tool to reorder, rename, and export Laravel migration files.  
+Built with `Next.js 14`, `TailwindCSS`, `Zustand`, `shadcn/ui`, `@dnd-kit`, `jszip`, and `FileSaver.js`.  
+Supports Arabic + English, full mobile responsiveness, rename presets, smart conflict detection, and JSON/Markdown export.
+
+🔗 [Live App](https://migration-alchemy-laravel.vercel.app)  
+💻 [GitHub](https://github.com/moatasem-alhilali/migration-alchemy-laravel)
+
+---
+
 ## 📱 iOS Store Apps
 
 > Published and publicly available on the App Store.
