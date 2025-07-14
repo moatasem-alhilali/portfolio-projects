@@ -48,9 +48,17 @@ Supports Arabic + English, full mobile responsiveness, rename presets, smart con
 
 ---
 
-## 📱 iOS Store Apps
+### 🌐 SSH Yemen – Electronics Store
 
-> Published and publicly available on the App Store.
+> Leading Yemeni e-commerce platform for electronics, specializing in sourcing and importing a wide range of devices directly from China.  
+> Shop for computers, accessories, gadgets, and more – serving individuals and businesses across Yemen.
+
+- 🏢 [Company Profile](https://ssh-yemen.com/en)  
+- 🛒 [Online Store](https://ssh-yemen.com/en/home)
+
+---
+
+## 📱 iOS Store Apps
 
 | App Name      | Description                                         | App Store Link |
 |---------------|-----------------------------------------------------|----------------|
@@ -60,15 +68,15 @@ Supports Arabic + English, full mobile responsiveness, rename presets, smart con
 
 ## 📱 Mobile Applications (APK & Source)
 
-> Developed fully using Flutter with real users and live APKs.
-
-| App            | Description                                                               | Links |
-|----------------|---------------------------------------------------------------------------|--------|
-| **Pinpaiss**   | E-commerce app (multi-language, cart, checkout).                          | 🌐 [Website](https://pinpaiss.com) |
-| **Qurani**     | Islamic app with Quran, Azkar, offline reading.                          | 📥 [APK](https://www.mediafire.com/file/tf86r57d05soyn4/quran-v2.apk/file) · 💻 [Code](https://github.com/moatasem-alhilali/qurani-master) |
-| **Easy Pay**   | Payment app for digital services and wallet features.                    | 📥 [APK](https://www.mediafire.com/file/tw01yb8o3ntsk2t/easyapp-v1.apk/file) |
-| **A’raas**     | Event/wedding planning app for managing guests and tasks.                | 📥 [APK](https://www.mediafire.com/file/lfe3s68c1q6mz8b/wedding-v1.apk/file) |
-| **What Anime** | Anime scene identifier using image recognition.                          | 📥 [APK](https://www.mediafire.com/file/p2ikpeolq45f207/what-anime-v1.apk/file) . 💻 [Code](https://github.com/moatasem-alhilali/what-anime) |
+| App             | Description                                                                           | Links |
+|-----------------|---------------------------------------------------------------------------------------|--------|
+| **Pinpaiss**    | E-commerce app (multi-language, cart, checkout).                                      | 🌐 [Website](https://pinpaiss.com) |
+| **Qurani**      | Islamic app with Quran, Azkar, offline reading.                                       | 📥 [APK](https://www.mediafire.com/file/tf86r57d05soyn4/quran-v2.apk/file) · 💻 [Code](https://github.com/moatasem-alhilali/qurani-master) |
+| **طمأنينة (Tamaneena)** | Advanced Quran app (reading, audio, tafsir, themes). Download only from the official website. | 🌐 [tamaneena.vercel.app](https://tamaneena.vercel.app/) |
+| **Easy Pay**    | Payment app for digital services and wallet features.                                 | 📥 [APK](https://www.mediafire.com/file/tw01yb8o3ntsk2t/easyapp-v1.apk/file) |
+| **A’raas**      | Event/wedding planning app for managing guests and tasks.                             | 📥 [APK](https://www.mediafire.com/file/lfe3s68c1q6mz8b/wedding-v1.apk/file) |
+| **What Anime**  | Anime scene identifier using image recognition.                                       | 📥 [APK](https://www.mediafire.com/file/p2ikpeolq45f207/what-anime-v1.apk/file) · 💻 [Code](https://github.com/moatasem-alhilali/what-anime) |
+| **تقييم الأعمال** <br>**Business Rating** | Comprehensive app to rate businesses and services.<br>تطبيق شامل لتقييم الأعمال والشركات واكتشاف أفضل الخدمات. | *(Coming Soon)* |
 
 ---
 
